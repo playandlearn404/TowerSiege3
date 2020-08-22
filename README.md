@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/playandlearn404/TowerSiege3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Tower Siege 3 Project
+In this project the background image is updated with the help of an API which returns time of a particular time zone and also scores are added 
+Score is increased on the basis of visibility of rectangle obstacles.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

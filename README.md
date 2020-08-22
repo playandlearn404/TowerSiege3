@@ -39,4 +39,4 @@ If the time is between 6 pm to 6 am make the background image a dark color.
 Fetch the time at the start of the program and determine the initial color of the background.
 ```
 
--X-
+---x---

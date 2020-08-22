@@ -22,7 +22,7 @@ async function getBackgroundImg() {
     backgroundImg = loadImage(bg);
 
 }
-```
+
 ## Specific taks completed in the project
     Create a variable score and initialize it with 0.
     Display text to show the score in sketch.js.
